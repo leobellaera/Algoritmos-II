@@ -1,2 +1,2 @@
 # Algoritmos-II
-Ejercicios algoritmos II fiuba y más
+Ejercicios resueltos de la materia Algoritmos y Programación II (FIUBA)
