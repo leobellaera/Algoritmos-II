@@ -1,2 +1,2 @@
-# Algoritmos-II-2do parcialito-
+# Algoritmos-II
 Ejercicios algoritmos II fiuba y más
